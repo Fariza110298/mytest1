@@ -5,5 +5,9 @@ public class Hello1 {
         System.out.println("Hello, Fariza");
         System.out.println("Khalamkhan");
         System.out.println("Fariza");
+        int a=MyMath1.kvadrat(5);
+        int b=MyMath1.kub(5);
+        System.out.println("a="+a);
+        System.out.println("a="+b);
     }
 }
