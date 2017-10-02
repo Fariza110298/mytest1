@@ -7,9 +7,8 @@ public class fariza {
         System.out.println("Khalamkhan");
         int a=MyMath3.kvadrat(5);
         int b=MyMath3.kub(5);
-        System.out.println("a="+a);
-        System.out.println("b="+b);
-        System.out.println(MyMath3.max3(8,9,12));
+        System.out.println("max="+MyMath3.max3(8,9,12));
+        System.out.println("min="+MyMath3.min3(12,8,15));
 
     }
 }
