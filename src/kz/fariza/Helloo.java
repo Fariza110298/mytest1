@@ -9,6 +9,7 @@ public class Helloo {
         int b=MyMath0.kub(5);
         System.out.println("a="+a);
         System.out.println("b="+b);
+        System.out.println(MyMath0.max(8,9));
 
     }
 }
