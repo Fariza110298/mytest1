@@ -9,7 +9,9 @@ public class fariza {
         int b=MyMath3.kub(5);
         System.out.println("a="+a);
         System.out.println("b="+b);
-        System.out.println(MyMath3.max3(8,9,12));
+        System.out.println(MyMath3.isEven(8));
+        System.out.println(MyMath3.isEven(7));
+
 
     }
 }
